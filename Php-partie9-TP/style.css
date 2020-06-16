@@ -1,0 +1,31 @@
+#myForm {
+    background-color: aqua;
+    width: 100%;
+    text-align: center;
+}
+#myForm ul {
+    list-style-type: none;
+}
+#myForm li {
+    padding-top: 20px;
+}
+table, thead {
+    width: 100%;
+}
+table th {
+    width: 14.285%;
+}
+th {
+    color: white;
+    background-color: grey;
+}
+tr, td {
+    height: 100px;
+}
+table, th, td{
+    border: black solid 1px;
+    border-collapse: collapse;
+}
+.outDate {
+    background-color: gray;
+}
